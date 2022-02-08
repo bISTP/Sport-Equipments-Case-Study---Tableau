@@ -1,4 +1,4 @@
-# Sport-Equipments-Case-Study---Tableau
+# Sport-Equipments-Case-Study-Tableau
 
 ## Business Case Objective:
   Client is a leading retailer of sports equipment across globe. Board of the company wants to
